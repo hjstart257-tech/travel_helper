@@ -1,0 +1,5 @@
+{
+  "name": "智能行李收纳助手",
+  "description": "AI驱动的行李收纳助手，拍照识别物品，自动生成科学的收纳布局图与操作指引。",
+  "requestFramePermissions": ["camera"]
+}
